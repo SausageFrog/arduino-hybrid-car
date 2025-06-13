@@ -21,6 +21,7 @@ const int in4 = 5;
 //SETUP
 void setup()
 {
+ //TEST
   Serial.begin(9600);  
   pinMode(Triggerf, OUTPUT); 
   pinMode(Echof, INPUT);
